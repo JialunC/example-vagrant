@@ -10,5 +10,7 @@
 5. Remember to run `vagrant halt` to halt the running VM.
 
 **Run `vagrant ssh`(from the repo directory) to SSH into a running Vagrant machine and give you access to a shell.**
+
 **Run `vagrant halt`(from the repo directory) to stop the VM.**
+
 **Run `vagrant destroy`(from the repo directory) to remove the VM**
